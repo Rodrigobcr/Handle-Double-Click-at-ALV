@@ -18,7 +18,7 @@ Copy the coding and paste to your ABAP environment.
 FOLLOW CODING BELLOW:
 
 <div class><pre>
-REPORT  Z_ALV_BANK_102.
+
 *********************************DECLARAR VARIÁVEIS
 
 DATA it_bnka TYPE TABLE OF bnka.
