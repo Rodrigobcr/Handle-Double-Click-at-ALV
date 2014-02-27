@@ -1,15 +1,17 @@
 Handle Double Click at ALV
 ==========================
 
-This program was created for teaching purposes. His explanation are into this video:
+This ABAP program was created for teaching purposes. His explanation are into this video:
 
 <a href="http://www.youtube.com/watch?v=3fB9AyT5kQk&list=UU1m92lTepCpEYDu08QYCSrw&feature=c4-overview" target="_blank">Handle Double Click</a>
+
+
 
 
 Instalation
 ------------
 
-Copy the coding and paste to your environment.
+Copy the coding and paste to your ABAP environment.
 
 
 
