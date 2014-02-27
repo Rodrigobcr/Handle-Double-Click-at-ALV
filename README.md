@@ -8,7 +8,7 @@ This ABAP program was created for teaching purposes. His explanation are into th
 
 
 
-Instalation
+Installation
 ------------
 
 Copy the coding and paste to your ABAP environment.
